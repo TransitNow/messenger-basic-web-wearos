@@ -13,4 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-friend_convo_ids.xml
+friend_convo_ids_local.xml
