@@ -1,5 +1,6 @@
 # Facebook Messenger Web (Basic) for Wear OS
 This is a shortcut application for accessing Facebook Messenger (basic version) specifically designed for Wear OS devices.
+[![Alt text for your video](https://img.youtube.com/vi/Ll-67LgG7G0/0.jpg)](https://www.youtube.com/watch?v=Ll-67LgG7G0)
 
 ## Why Use This App?
 - **Samsung Browser Limitations:** The Samsung Browser on Wear OS does not support adding bookmarks directly to the home screen. While it's possible to add a shortcut to a watchface complication, this is not an ideal solution as it uses up one of the limited complication slots on your watchface.
