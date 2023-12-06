@@ -1,7 +1,7 @@
 # Facebook Messenger Web (Basic) for Wear OS
 This is a shortcut application for accessing Facebook Messenger (basic version) specifically designed for Wear OS devices.
-[![Alt text for your video](https://img.youtube.com/vi/Ll-67LgG7G0/0.jpg)](https://www.youtube.com/watch?v=Ll-67LgG7G0)
-
+[![Alt text for your video](https://img.youtube.com/vi/Ll-67LgG7G0/0.jpg)]([https://www.youtube.com/watch?v=Ll-67LgG7G0](https://youtu.be/Ll-67LgG7G0?t=502))
+<iframe width="2527" height="1145" src="https://www.youtube.com/embed/Ll-67LgG7G0" title="How I improved Google Wallet (and other annoyances) on my Galaxy Watch6 - MUST TRY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Why Use This App?
 - **Samsung Browser Limitations:** The Samsung Browser on Wear OS does not support adding bookmarks directly to the home screen. While it's possible to add a shortcut to a watchface complication, this is not an ideal solution as it uses up one of the limited complication slots on your watchface.
 - **Compatibility Issues with Messenger Lite:** The Facebook Messenger Lite app, along with other Facebook phone APKs, have been found to have compatibility issues with Wear OS. For detailed information on these issues, check out the discussions on the [XDA forums](https://xdaforums.com/t/official-list-of-sideloaded-apps-and-workarounds-for-wear-os-tested-on-galaxy-watch.4379825/).
