@@ -35,18 +35,18 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".Friend1Activity"
-            android:exported="true"
-            android:icon="@mipmap/ic_launcher_friend"
-            android:theme="@style/AppTheme"
-            android:label="Friend">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+<!--        <activity-->
+<!--            android:name=".Friend1Activity"-->
+<!--            android:exported="true"-->
+<!--            android:icon="@mipmap/ic_launcher_friend"-->
+<!--            android:theme="@style/AppTheme"-->
+<!--            android:label="Friend">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+<!--        </activity>-->
     </application>
 
 </manifest>
