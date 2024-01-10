@@ -1,4 +1,8 @@
-# Facebook Messenger Web (Basic) for Wear OS
+# Deprecated - Facebook Messenger Web (Basic) for Wear OS
+Facebook discontinued Messenger basic as of Dec 2023. If there are alternative ways to load Facebook Messenger for Wear OS, contact me!
+
+
+
 This is a shortcut application for accessing Facebook Messenger (basic version) specifically designed for Wear OS devices.
 
 Watch the video [demo on Youtube](https://youtu.be/qyKzMmxhpaQ?t=502)
